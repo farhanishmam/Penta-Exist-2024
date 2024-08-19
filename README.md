@@ -11,6 +11,26 @@ This repository contains the notebooks and papers of the Penta ML and NLP teams 
 
   [![CLEF](https://img.shields.io/badge/CLEF2024-3740--90-blue?)](https://ceur-ws.org/Vol-3740/paper-90.pdf) [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://tinyurl.com/gscholarbanglabook)
 
+## Methodology Overview
+
+### Task 1-3
+
+<img src="Assets/task-1-3-overview.PNG" alt="Image Not Found" width="900"/>
+
+### Task 4-6
+
+<img src="Assets/task-4-6-overview.PNG" alt="Image Not Found" width="350"/>
+
+## Contributors
+
+- Fariha Tanjim Shifat
+- Fabiha Haider
+- Deeparghya Dutta Barua
+- Md Sakib Ul Rahman Sourove
+- Md Farhan Ishmam
+- Md Fahim
+- Farhad Alam Bhuiyan
+
 ## Citations
 
 ```
