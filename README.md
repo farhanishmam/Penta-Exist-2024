@@ -15,11 +15,11 @@ This repository contains the notebooks and papers of the Penta ML and NLP teams 
 
 ### Methodology Overview
 
-<img src="Assets/task-1-3-overview.PNG" alt="Image Not Found" width="700"/>
+<img src="Assets/task-1-3-overview.PNG" alt="Image Not Found" width="650"/>
 
 ### Results
 
-<img src="Assets/task-1-3-performance.PNG" alt="Image Not Found" width="350"/>
+<img src="Assets/task-1-3-performance.PNG" alt="Image Not Found" width="400"/>
 
 ## Task 4-6
 
@@ -29,7 +29,7 @@ This repository contains the notebooks and papers of the Penta ML and NLP teams 
 
 ### Results
 
-<img src="Assets/task-4-6-performance.PNG" alt="Image Not Found" width="600"/>
+<img src="Assets/task-4-6-performance.PNG" alt="Image Not Found" width="650"/>
 
 ## Contributors
 
