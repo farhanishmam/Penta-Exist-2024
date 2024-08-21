@@ -8,29 +8,16 @@ This repository contains the notebooks and papers of the Penta ML and NLP teams 
 
 ## Papers
 
-<div align="center">
-  
-  **Penta NLP at EXIST 2024 Task 1-3: Sexism Identification, Source Intention, Sexism Categorization In Tweets**
 
-</div>
+ **Penta NLP at EXIST 2024 Task 1-3: Sexism Identification, Source Intention, Sexism Categorization In Tweets**
 
-<div align="center">
-  
   [![CLEF](https://img.shields.io/badge/CLEF2024-3740--114-blue?)](https://ceur-ws.org/Vol-3740/paper-114.pdf) [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://tinyurl.com/gscholarbanglabook)
 
-  </div>
 
-  <div align="center">
-    
-**Penta ML at EXIST 2024  Task 4-6: Tagging Sexism in Online Multimodal Content With Attention-enhanced Modal Context**
+ **Penta ML at EXIST 2024  Task 4-6: Tagging Sexism in Online Multimodal Content With Attention-enhanced Modal Context**
 
-</div>
-
-<div align="center">
-  
   [![CLEF](https://img.shields.io/badge/CLEF2024-3740--90-blue?)](https://ceur-ws.org/Vol-3740/paper-90.pdf) [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://tinyurl.com/gscholarbanglabook)
   
-</div>
 
 ## Task List
 
