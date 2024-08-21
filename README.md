@@ -1,15 +1,36 @@
-# Penta-Exist-2024
+<div align="center">
+  
+# Penta at EXIST 2024 [CLEF 2024]
+
+</div>
 
 This repository contains the notebooks and papers of the Penta ML and NLP teams in the [EXIST 2024](http://nlp.uned.es/exist2024/) challenge at [CLEF 2024](https://clef2024.imag.fr/). The challenge focuses on detecting and categorizing sexism in online content, including tweets and multimodal data.
 
 ## Papers
 
-- **Penta NLP at EXIST 2024 Task 1-3: Sexism Identification, Source Intention, Sexism Categorization In Tweets**
+<div align="center">
+  
+  **Penta NLP at EXIST 2024 Task 1-3: Sexism Identification, Source Intention, Sexism Categorization In Tweets**
 
+</div>
+
+<div align="center">
+  
   [![CLEF](https://img.shields.io/badge/CLEF2024-3740--114-blue?)](https://ceur-ws.org/Vol-3740/paper-114.pdf) [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://tinyurl.com/gscholarbanglabook)
-- **Penta ML at EXIST 2024  Task 4-6: Tagging Sexism in Online Multimodal Content With Attention-enhanced Modal Context**
 
+  </div>
+
+  <div align="center">
+    
+**Penta ML at EXIST 2024  Task 4-6: Tagging Sexism in Online Multimodal Content With Attention-enhanced Modal Context**
+
+</div>
+
+<div align="center">
+  
   [![CLEF](https://img.shields.io/badge/CLEF2024-3740--90-blue?)](https://ceur-ws.org/Vol-3740/paper-90.pdf) [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://tinyurl.com/gscholarbanglabook)
+  
+</div>
 
 ## Task List
 
