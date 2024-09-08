@@ -35,7 +35,7 @@ The first three tasks are primarily text classification tasks. We used pre-train
 <img src="Assets/task-1-3-overview.PNG" alt="Image Not Found" width="650"/>
 
 ## Task 1-3 Results
-Test results with the best-performing configuration with CLS token aggregation on the dev set.
+Test results with the best-performing configuration with CLS token aggregation on the dev set. We also explored layerwise most attentive tokens to see the effects of layerwise attention.
 
 <img src="Assets/task-1-3-performance.PNG" alt="Image Not Found" width="600"/>
 
